@@ -6,7 +6,7 @@ A modern, responsive, and interactive personal portfolio website built using **H
 
 ## 🚀 Live Demo
 
-🔗 https://your-portfolio-link.vercel.app/
+🔗  https://laxman43aa.github.io/laxman-rawat-portfolio/
 
 ---
 
@@ -105,7 +105,7 @@ https://linkedin.com/in/laxman-rawat-432682324
 https://github.com/Laxman43aa
 
 🌍 Portfolio:
-https://your-portfolio-link.vercel.app/
+ https://laxman43aa.github.io/laxman-rawat-portfolio/
 
 ---
 
